@@ -1,5 +1,5 @@
 # bQOI
-## **This is a very early release. Please don't use it. **
+## **This is a very early release. Please don't use it.**
 Blender add-on for writing QOI images.
 
 This add-on exports a QOI images from Blender's image editor. 
